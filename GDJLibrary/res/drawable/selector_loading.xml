@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><shape>
+
+            <!-- 渐变 -->
+
+            <gradient android:endColor="#b0000000" android:startColor="#b0000000" />
+
+            <!-- 圆角 -->
+
+            <corners android:radius="5dp" />
+        </shape></item>
+    <item android:state_focused="true"><shape>
+
+            <!-- 渐变 -->
+
+            <gradient android:endColor="#b0000000" android:startColor="#b0000000" />
+
+            <!-- 圆角 -->
+
+            <corners android:radius="5dp" />
+        </shape></item>
+    <item><shape>
+
+            <!-- 渐变 -->
+
+            <gradient android:endColor="#b0000000" android:startColor="#b0000000" />
+
+            <!-- 圆角 -->
+
+            <corners android:radius="5dp" />
+        </shape></item>
+
+</selector>

@@ -1,0 +1,15 @@
+package cn.com.igdj.library.alipay;
+
+
+public final class Keys {
+    //合作身份者id，以2088开头的16位纯数字
+    public static final String DEFAULT_PARTNER = "2088021114052190";
+
+    //收款支付宝账号
+    public static final String DEFAULT_SELLER = "szcloudmedia@163.com";
+
+    //商户私钥，自助生成
+    public static final String PRIVATE = "MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBANJtTTs5hMQiUPoboWcZPqNfiFQYT7w2+j7VzgVcnJyrnIUFrAm/trvixohadwjkzZFKhdBEGD8e2P7Deu5BugOSKefW1vXVX/80+GXKycPUuPfPxE2Ba4sP/P5XQJ8k9aMI0vZkaUdJx5k2TEZNJNst1+R/m4q8qoNFLtSXw3RxAgMBAAECgYBmeRnyLHmONhPvKIN6PJ33W299XHV/99n3vZDdpZMS7LOFSBTWjokDiFUcU8nCCAJfrcXqfS69ll0f+7wiyNk3PyEwpFGyk8g8I2PkHJSdyfFgaH3bqm5v0aPoiMLdRtFggUQh5Amoh50egJ3dkDxxMF9rrtwnXXUIv/cB8hsQTQJBAPw5Xj4bkyyWiEhcCNXkCbCDgsKznW5OSTObrrBi53bOXG2+HxL89L1NSlhOg4YCz6D8NRDEsojhXg/mB9BFJo8CQQDVk7+0SlulFSd796Q8+qCvcwizRcWDZ1so0T0yi8Fnl797Uefx4o1NeSTgsxKxfdBADJtWXAlaGa13UVXWozT/AkBZphJnROnUyVR7U6sYS0teYAAUMD9eu5itLUK0ExNuWP7lStRErYBX4KbyKEX7VfhyofJCmYdTu7bxM7PHRSzlAkB6E92729TOY20SOtax1EAMiSAr+HGRTn6YsiDcx21hHSfiAUsmw2wpIFmn5jOFKHjkY1BW6Hyf95VjYiZCbT9ZAkACsG7ttzf/wZNfVXYR7vy+KjASfz0rYSGD/vMCc6ahacOF9Nl4RaxhJYfN0kEbt5/t7BGHa3ZfDadEtD3DY2QA";
+    public static final String PUBLIC = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnxj/9qwVfgoUh/y2W89L6BkRAFljhNhgPdyPuBV64bfQNN1PjbCzkIM6qRdKBoLPXmKKMiFYnkd6rAoprih3/PrQEB/VsW8OoM8fxn67UDYuyBTqA23MML9q1+ilIZwBC2AQ2UBVOrFXfFl75p6/B5KsiNG9zpgmLCUYuLkxpLQIDAQAB";
+}
+
